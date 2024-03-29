@@ -4,7 +4,7 @@ Here the steps that lead me to this project is stated
 
 ## Dream Idea of a Dream Project and the way to Concordia
 
-Before being introduced to Concordia, and realizing it's potential, I did have and idea of this kind:
+Long time ago in a galaxy far fat away... I had an idea of this kind:
 
 - The general idea, is something like a AI theatre 
 The engine will be ChatGPT + Langchain framework.

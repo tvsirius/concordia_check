@@ -1,6 +1,6 @@
 # Concordia_Check
 
-Welcome to **Concordia_Check** DataScience project. This is a capstone project for the ELO part of the[MIT Emerging Talent](https://emergingtalent.mit.edu/) Program
+Welcome to **Concordia_Check** DataScience project. This is a capstone project for the ELO part of the [MIT Emerging Talent](https://emergingtalent.mit.edu/) Program
 
 ## Project description
 
