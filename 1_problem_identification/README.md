@@ -1,6 +1,6 @@
 # Problem Identification
 
-Here the steps that lead me to this project is stated
+Here the steps that led me to this project and their further exploration
 
 ## Dream Idea of a Dream Project and the way to Concordia
 
