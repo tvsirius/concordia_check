@@ -31,9 +31,9 @@ This project have started 2024 March. All documents are live documents now.
 2. [**Concordia Demo Scene**](2_concordia_demo_scene) - Getting used to Concordia, running a small demo simulation.
 3. [**Data Collection**](3_data_collection) - Selection of real social simulations.
 4. **First Run** - Comprehending Concordia on a large scale. Comparing different LLM engines. Starting our first run and optimizing approach to simulations.
-4. **Data Analysis** - Scripting simulations into Concordia, running, adjusting and fine-tuning settings.
-5. **Comparison and Analysis** - Comparing the outcomes with real data, analyzing findings.
-6. **Communicating Results**
+5. **Data Analysis** - Scripting simulations into Concordia, running, adjusting and fine-tuning settings.
+6. **Comparison and Analysis** - Comparing the outcomes with real data, analyzing findings.
+7. **Communicating Results**
 
 
 ### [1 Problem Identification](1_problem_identification)
@@ -55,9 +55,9 @@ In this milestone we will find several real life documented simulations, that co
 
 ### 5 Data Analysis
 
-### 5 Comparison and Analysis
+### 6 Comparison and Analysis
 
-### 6 Communicating Results
+### 7 Communicating Results
 
 ## Conclusions
 
