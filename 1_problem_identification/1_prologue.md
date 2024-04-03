@@ -3,7 +3,7 @@ Here the steps that led me to this project and their further exploration
 
 # Dream Idea of a Dream Project and the way to Concordia
 
-*Long time ago in a galaxy far fat away...*
+*Long time ago in a galaxy far far away...*
 
 - The general idea, is something like a AI theatre 
 The engine will be ChatGPT + Langchain framework.

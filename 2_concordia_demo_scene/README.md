@@ -12,5 +12,6 @@ The main objective of this milestone will be getting used to Concordia, and runn
 
 ## Demo Scene
 
-doing ...
+##TODO
 
+    
