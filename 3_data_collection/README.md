@@ -15,7 +15,8 @@ In this milestone objective is finding several real life simulations with known 
 - populations could be transformed to Concordia actors
 - settings could be transformed to Concordia GM settings
 
-... ##todo
+- .
+-  ##todo
 
 
 ## Found Simulations:

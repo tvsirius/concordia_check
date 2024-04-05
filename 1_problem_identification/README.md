@@ -15,13 +15,7 @@ This questions are important not only in this context, but to the general field 
 ## [Research Questions](2_reseach_questions.md)
 
 *Can we really rely on LLMs to simulate human beings?*
-
-*How accurate could the results of such simulations be?*
-
-*Are there any factors in setting, that influence accuracy and appropriateness of such simulations?*
-
-*Can we consider hybrid approach to social simulation?*
-
+[Read more...](2_reseach_questions.md)
 
 ## Project Description
 
@@ -41,8 +35,7 @@ The general approach of [Concordia](https://github.com/google-deepmind/concordia
 The original idea was to use [**OpenAI ChatGPT API**](https://platform.openai.com/docs/guides/text-generation) as a main LLM, as it is suggested in the Concordia documentation. But considering possible constraints - time and money, that will be required by thousands of requests (as can be imagined) of simulation, we will additionally explore another option of using llama LLM and Ragdoll API framework (with possible modifications): 
 
 [Ragdoll-studio](https://ragdoll-studio.vercel.app/dolls#) 
-
-
+ 
 
 ## [Constraints](3_constraints.md)
 
