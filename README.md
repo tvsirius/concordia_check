@@ -43,7 +43,7 @@ This milestone will have a clearly stated project idea, goals, constraints, rese
 
 ### [2 Concordia Demo Scene](2_concordia_demo_scene)
 
-This milestone is for getting used to Concordia and running a simple demo in it. [Read more...](2_concordia_demo_scene)
+In this milestone we are exploring Concordia and running several demo simulations. [Read more...](2_concordia_demo_scene)
 
 ### [3 Data Collection](3_data_collection)
 
@@ -68,6 +68,10 @@ In this milestone we will find several real life documented simulations, that co
 [Concordia repository](https://github.com/google-deepmind/concordia)
 
 [Ragdoll-studio](https://ragdoll-studio.vercel.app/dolls#) 
+
+[Llama 3](https://huggingface.co/meta-llama/Meta-Llama-3-8B)
+
+[Llama.cpp - LLM quantization (running LLMs with limited amount of video memory)](https://github.com/ggerganov/llama.cpp)
 
 
 
