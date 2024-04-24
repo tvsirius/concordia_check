@@ -83,7 +83,7 @@ player_configs = [
 
 ## Output
 
-The whole run could be seen in the [html results page](day_in_riverbend_output.html)
+The whole run could be seen in the [html results page](http://tvsirius.github.io/concordia_check/2_concordia_demo_scene_docs/day_in_riverbend_output.html)
 
 ## Story output 
 
