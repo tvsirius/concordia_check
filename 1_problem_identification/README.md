@@ -28,14 +28,15 @@ The general approach of [Concordia](https://github.com/google-deepmind/concordia
 
 ### Concordia 
 
-[Article on Concordia](../2_concordia_demo_scene/2312.03664.pdf) and [Concordia GitHub repository](https://github.com/google-deepmind/concordia)
+[Article on Concordia](<../resources/Generative agent-based modeling using Concordia.pdf>) and [Concordia GitHub repository](https://github.com/google-deepmind/concordia)
 
 ### LLM engine
 
 The original idea was to use [**OpenAI ChatGPT API**](https://platform.openai.com/docs/guides/text-generation) as a main LLM, as it is suggested in the Concordia documentation. But considering possible constraints - time and money, that will be required by thousands of requests (as can be imagined) of simulation, we will additionally explore another option of using llama LLM and Ragdoll API framework (with possible modifications): 
 
 [Ragdoll-studio](https://ragdoll-studio.vercel.app/dolls#) 
- 
+
+Update: We should explore more possibilities in this question, as now there are a lot of open source LLMs, that can be deployed locally. This question will be considered later on.
 
 ## [Constraints](3_constraints.md)
 

@@ -63,7 +63,7 @@ In this milestone we will find several real life documented simulations, that co
 
 ## Links
 
-[Generative agent-based modeling with actions grounded in physical, social, or digital space using Concordia](2_concordia_demo_scene/2312.03664.pdf)
+[Generative agent-based modeling with actions grounded in physical, social, or digital space using Concordia](<resources/Generative agent-based modeling using Concordia.pdf>)
 
 [Concordia repository](https://github.com/google-deepmind/concordia)
 
