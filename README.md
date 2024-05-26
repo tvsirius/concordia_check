@@ -30,7 +30,7 @@ This project have started 2024 March. All documents are live documents now.
 1. [**Problem Identification**](1_problem_identification) - Clarifying project idea, description, research questions, goals, constraints.
 2. [**Concordia Demo Scene**](2_concordia_demo_scene) - Getting used to Concordia, running a small demo simulation.
 3. [**Data Collection**](3_data_collection) - Selection of real social simulations.
-4. **First Run** - Comprehending Concordia on a large scale. Comparing different LLM engines. Starting our first run and optimizing approach to simulations.
+4. **Local LLM, Simulation run** - Comprehending Concordia on a large scale. Local LLM usage. Starting our first run and optimizing approach to simulations.
 5. **Data Analysis** - Scripting simulations into Concordia, running, adjusting and fine-tuning settings.
 6. **Comparison and Analysis** - Comparing the outcomes with real data, analyzing findings.
 7. **Communicating Results**
@@ -45,13 +45,17 @@ This milestone will have a clearly stated project idea, goals, constraints, rese
 
 In this milestone we are exploring Concordia and running several demo simulations. [Read more...](2_concordia_demo_scene)
 
+**Milestone 2 conclusions:**
+
+- Local LLM deployment, like Llama 3. Need step, that will allow for experimentation of large scale. Comparison of simulation results with local vs OpenAI LLM could be considered. 
+- This concept of **Chain Of Thought** should be well understood for further steps. 
+- An experiment with 1-10 actors should be preferable options for the start.
+
 ### [3 Data Collection](3_data_collection)
 
 In this milestone we will find several real life documented simulations, that could be scripted into Concordia settings. [Read more...](3_data_collection)
 
-*(Milestone 2 and 3 are going in parallel, so getting known Concordia would help to understand the criteria for selecting.)*
-
-### 4 First Run
+### 4 Local LLM, Simulation run
 
 ### 5 Data Analysis
 
@@ -73,7 +77,13 @@ In this milestone we will find several real life documented simulations, that co
 
 [Llama.cpp - LLM quantization (running LLMs with limited amount of video memory)](https://github.com/ggerganov/llama.cpp)
 
+[AI Town: Create a AI Virtual World 100% Local using Llama 3](https://www.youtube.com/watch?v=gjV4KIY5nqI)
 
+## Similar/alike project
+
+[AI Town hf](https://huggingface.co/spaces/radames/ai-town)
+
+[AI Town MIT](https://github.com/a16z-infra/ai-town)
 
 
 ## Author

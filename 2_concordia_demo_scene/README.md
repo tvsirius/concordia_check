@@ -30,3 +30,17 @@ I will consider:
 - try to use other LLM, that could be deployed locally. Considering use of llama-3 8B, based on it's described functionality. This will require some effort. 
 
 This also give some ideas about what kind of real simulations could fit in this project.
+
+
+# Conclusions on deme scene
+
+This is indeed powerful. Expectation meets. 
+
+Next learning/project steps:
+
+- CoT - **Chain Of Thought** is one of the basic things thats drives system like Concordia. This conception should be well understood for further steps. 
+- local LLM deployment. There is a lot's of manuals, and lots of LLM that you can deploy locally. Having local mid/low-class GPU, and considering cost of using cloud based LLM this should be task of high priority, as it will open possibilities for experimentation of large scale.
+
+Next milestone thoughts:
+- an experiment with 1-10 actors should be preferable options for the start.
+
