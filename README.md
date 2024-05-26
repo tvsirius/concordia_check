@@ -30,7 +30,7 @@ This project have started 2024 March. All documents are live documents now.
 1. [**Problem Identification**](1_problem_identification) - Clarifying project idea, description, research questions, goals, constraints.
 2. [**Concordia Demo Scene**](2_concordia_demo_scene) - Getting used to Concordia, running a small demo simulation.
 3. [**Data Collection**](3_data_collection) - Selection of real social simulations.
-4. **Local LLM, Simulation run** - Comprehending Concordia on a large scale. Local LLM usage. Starting our first run and optimizing approach to simulations.
+4. [**Local LLM, Simulation run**](4_llm_run) - Comprehending Concordia on a large scale. Local LLM usage. Starting our first run and optimizing approach to simulations.
 5. **Data Analysis** - Scripting simulations into Concordia, running, adjusting and fine-tuning settings.
 6. **Comparison and Analysis** - Comparing the outcomes with real data, analyzing findings.
 7. **Communicating Results**
@@ -55,7 +55,10 @@ In this milestone we are exploring Concordia and running several demo simulation
 
 In this milestone we will find several real life documented simulations, that could be scripted into Concordia settings. [Read more...](3_data_collection)
 
-### 4 Local LLM, Simulation run
+### [4 Local LLM, Simulation run](4_llm_run)
+
+In this milestone we will explore and deploy local LLM, starting with Llama 3. Starting our first run of best simulation found. Optimizing approach to simulations. If possible we will compare one run using local LLM and OpenAI LLM
+
 
 ### 5 Data Analysis
 
