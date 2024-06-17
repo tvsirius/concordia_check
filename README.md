@@ -55,10 +55,9 @@ In this milestone we are exploring Concordia and running several demo simulation
 
 In this milestone we will find several real life documented simulations, that could be scripted into Concordia settings. [Read more...](3_data_collection)
 
-### [4 Local LLM, Simulation run](4_llm_run)
+### [4 LLM Simulation run](4_llm_run)
 
-In this milestone we will explore and deploy local LLM, starting with Llama 3. Starting our first run of best simulation found. Optimizing approach to simulations. If possible we will compare one run using local LLM and OpenAI LLM
-
+In this milestone we will start our run of simulations. Conclusions, optimizations abd observations based on outcome. [Read more...](4_llm_run)
 
 ### 5 Data Analysis
 
