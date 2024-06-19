@@ -15,4 +15,6 @@ Algorithm for running simulations, from [data collection fits](../3_data_collect
 5. Was the settings ok? - If not goto p. 1, it yes - continue
 6. Thought on the results
 
-## 1. Stanford Prison Experiment
+## 1. [Stanford Prison Experiment](<Stanford Prison Experiment>)
+
+A big one. Original expectations did not prove, and there is much to consider. [See more...](<Stanford Prison Experiment>)

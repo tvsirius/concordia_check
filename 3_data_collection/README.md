@@ -94,6 +94,7 @@ Conducted in 1971 by Philip Zimbardo, this experiment involved 24 male universit
 
 **Notes and consideration**: I believe we fill see different results here. Such effect, lead to termination of this experiment are more connected to feeling and emotional feedback. And our primary approach is to model LLM based on conscious decisions and evaluations. And so it will be good to try to input this experiment, trying to minimize bias, and see what we will observe. 
 
-Experiment hold in [LLM_run](../4_llm_run) milestone.
+Experiment hold in [LLM_run/Stanford Prison Experiment](<../4_llm_run/Stanford Prison Experiment>).
+
 
 2. 
