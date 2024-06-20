@@ -13,6 +13,8 @@
 
 ![alt text](images/README/image.png)
 
+![alt text](images/README/image-1.png)
+
 Based on the datasets of simulation results ([`df_results0`](ultimatum_game_without_env_steps.csv) and [`df_results1`](ultimatum_game_with_env_steps.csv)) for the Ultimatum Game simulation, here is an analysis of the results along with some key observations. This will help in understanding the divergence from the expected outcomes and guiding future steps in the project:
 
 ### Summary of Observations
