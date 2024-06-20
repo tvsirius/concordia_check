@@ -27,15 +27,6 @@ This project have started 2024 March. All documents are live documents now.
 
 ## Milestones:
 
-1. [**Problem Identification**](1_problem_identification) - Clarifying project idea, description, research questions, goals, constraints.
-2. [**Concordia Demo Scene**](2_concordia_demo_scene) - Getting used to Concordia, running a small demo simulation.
-3. [**Data Collection**](3_data_collection) - Selection of real social simulations.
-4. [**Local LLM, Simulation run**](4_llm_run) - Comprehending Concordia on a large scale. Local LLM usage. Starting our first run and optimizing approach to simulations.
-5. **Data Analysis** - Scripting simulations into Concordia, running, adjusting and fine-tuning settings.
-6. **Comparison and Analysis** - Comparing the outcomes with real data, analyzing findings.
-7. **Communicating Results**
-
-
 ### [1 Problem Identification](1_problem_identification)
 
 This milestone will have a clearly stated project idea, goals, constraints, research questions as deliverables.
@@ -59,13 +50,15 @@ In this milestone we will find several real life documented simulations, that co
 
 In this milestone we will start our run of simulations. Conclusions, optimizations abd observations based on outcome. [Read more...](4_llm_run)
 
-### 5 Data Analysis
+### [5 Analysis](5_analysis)
 
-### 6 Comparison and Analysis
-
-### 7 Communicating Results
+We performed an analysis of our simulation results. [Read more...](5_analysis/README.md)
 
 ## Conclusions
+
+The results of our simulations demonstrate that while LLMs hold considerable promise in modeling human behavior, their effectiveness is highly dependent on the specific settings and the programming of the agents. The Ultimatum Game and Stanford Prison Experiment simulations showcased the ability of LLMs to generate coherent and contextually appropriate responses, reflecting basic psychological traits and stress responses. However, these simulations also highlighted limitations in strategic adaptability and emotional depth, indicating that current LLM implementations do not fully capture the complexities of human decision-making and variability in emotional responses. This suggests that while LLMs can simulate human behavior to a significant extent, there is still substantial work needed to enhance their accuracy and reliability.
+
+Our findings underline the critical role of the simulation settings and the programming of agents in achieving realistic human behavior modeling. We do not yet have a universal agent capable of fully replicating human behavior across all scenarios. However, by fine-tuning the simulation parameters and incorporating principles from behavioral economics, as well as allowing agents to learn and adapt from interactions, we can approach a high level of likelihood in specific scenarios. Ongoing research and development in this field are crucial for advancing the capabilities of LLMs in social simulations, moving us closer to creating agents that can accurately model human behavior under varied and complex conditions.
 
 ## Links
 

@@ -1,0 +1,4 @@
+,Unnamed: 0,Proposing Player Name,Responder Player Name,Offer 1 Percentage,Offer 2 Percentage,Offer 3 Percentage,Offer 4 Percentage,Offer 5 Percentage,Offer 6 Percentage,Offer 7 Percentage,Offer 8 Percentage,Offer 9 Percentage,Offer 10 Percentage,Offer 1 Accepted,Offer 2 Accepted,Offer 3 Accepted,Offer 4 Accepted,Offer 5 Accepted,Offer 6 Accepted,Offer 7 Accepted,Offer 8 Accepted,Offer 9 Accepted,Offer 10 Accepted,Average Percentage of Proposed Offers,Average Percentage of Accepted Offers,Average Percentage of Declined Offers,Total Money of Proposer in the End,Total Money of Responder in the End
+0,1.0,Dana,Charlie,50,50,50,50,50,50,50,50,50,50,True,True,True,True,True,True,True,True,True,True,50.0,50.0,0.0,55.0,55.0
+1,,Eve,Dana,40,50,40,50,50,50,50,50,50,50,False,False,False,False,False,False,False,False,False,False,48.0,0.0,48.0,0.0,0.0
+2,,Frank,Bob,70,60,10,10,10,10,10,10,30,10,True,True,True,True,True,True,True,True,True,True,23.0,23.0,0.0,77.0,23.0
