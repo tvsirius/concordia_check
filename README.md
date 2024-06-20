@@ -60,6 +60,10 @@ The results of our simulations demonstrate that while LLMs hold considerable pro
 
 Our findings underline the critical role of the simulation settings and the programming of agents in achieving realistic human behavior modeling. We do not yet have a universal agent capable of fully replicating human behavior across all scenarios. However, by fine-tuning the simulation parameters and incorporating principles from behavioral economics, as well as allowing agents to learn and adapt from interactions, we can approach a high level of likelihood in specific scenarios. Ongoing research and development in this field are crucial for advancing the capabilities of LLMs in social simulations, moving us closer to creating agents that can accurately model human behavior under varied and complex conditions.
 
+## Next Steps
+
+Coming soon...
+
 ## Links
 
 [Generative agent-based modeling with actions grounded in physical, social, or digital space using Concordia](<resources/Generative agent-based modeling using Concordia.pdf>)
