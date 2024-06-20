@@ -18,7 +18,7 @@ Now what conclusions can we derive from our run.
 
 ## Well-being Change
 
-| Player | Well-being Change |
+| Player | Well-being Change (-10 .. 10) |
 |--------|--------------------|
 | **Guards** | |
 | Mike   | 1  |

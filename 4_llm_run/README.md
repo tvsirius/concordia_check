@@ -35,7 +35,7 @@ We have run 1 day of Stanford Prison experiment
 
 #### Well-being Change of players
 
-| Player | Well-being Change |
+| Player | Well-being Change (-10 .. 10) |
 |--------|--------------------|
 | **Guards** | |
 | Mike   | 1  |
