@@ -87,7 +87,7 @@ Coming soon...
 
 ## Author
 
-[Denys Savytskyi](https://github.com/tvsirius) / [LinkedIn](https://www.linkedin.com/in/denys-savytskyi-19b58777/)
+Denys Savytskyi [Portfolio](https://tvsirius.github.io/) / [GitHub](https://github.com/tvsirius) / [LinkedIn](https://www.linkedin.com/in/denys-savytskyi-19b58777/)
 
 
 
